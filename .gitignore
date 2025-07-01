@@ -1,0 +1,18 @@
+# Ignore Firebase service account JSON file
+app/remembermeapp-84b23-firebase-adminsdk-fbsvc-f623890f7a.json
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore logs
+*.log
+
+# Ignore virtual environments
+venv/
